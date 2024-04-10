@@ -9,5 +9,5 @@ We recommend that you install the addon if you'd like to follow along, or even e
 What content does this addon add to ACF:
 * An example entity in the form of a gambling machine
 
-#Installation
+# Installation
 The installation process is identical to that of ACF. Make sure the folder is in `data/`, not the `data/ACF-3` folder itself. [ACF-3 Repository](https://github.com/ACF-Team/ACF-3)
