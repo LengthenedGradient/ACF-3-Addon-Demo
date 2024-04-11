@@ -7,7 +7,12 @@ We recommend that you install the addon if you'd like to follow along, or even e
 **We do not endorse gambling or any harmful activities.**
 
 What content does this addon add to ACF:
-* An example entity in the form of a gambling machine
+* A ticket box machine that holds "currency"
+* A few arcade/gambling machines that work with currency
+  * A hammer machine
+  * A punching machine
+  * A Whackamole machine?
+  * A slot machine 
 
 # Installation
 The installation process is identical to that of ACF. Make sure the folder is in `addons/`, not the `addons/ACF-3` folder itself. [ACF-3 Repository](https://github.com/ACF-Team/ACF-3)
