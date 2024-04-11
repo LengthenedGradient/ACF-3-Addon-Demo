@@ -1,10 +1,13 @@
+-- Localize global variables
 local ACF     = ACF
 local GameMachines = ACF.Classes.GameMachines
 
+-- Register the gambling machine group
 GameMachines.Register("GM", {
 	Name = "Gambling Machine",
 })
 
+-- Register different gambling machine types under the gambling machine (GM) class
 do
 	GameMachines.RegisterItem("BETTING-GM", "GM", {
 		Name = "Betting Gambling Machine",
@@ -42,7 +45,7 @@ do
 		MinCost = 100,
 		MaxCost = 100000,
 		Chances = 1 / 6,
-		Ratio = 10,
+		Ratio = 6,
 		Preview = {
 			FOV = 80,
 		},
