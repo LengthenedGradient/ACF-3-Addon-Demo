@@ -11,7 +11,8 @@ do
 		Model = "",
 		Sound = "",
 		Mass = 100,
-		Cost = 0,
+		MinCost = 10,
+		MaxCost = 10,
 		Preview = {
 			FOV = 80,
 		},
@@ -22,18 +23,20 @@ do
 		Model = "",
 		Sound = "",
 		Mass = 100,
-		Cost = 0,
+		MinCost = 10,
+		MaxCost = 10,
 		Preview = {
 			FOV = 80,
 		},
 	})
 
-	GameMachines.RegisterItem("SOLITAIRE-AM", "GM", {
-		Name = "Solitaire Arcade Machine",
+	GameMachines.RegisterItem("MARIO-AM", "GM", {
+		Name = "Mario Arcade Machine",
 		Model = "",
 		Sound = "",
 		Mass = 100,
-		Cost = 0,
+		MinCost = 10,
+		MaxCost = 10,
 		Preview = {
 			FOV = 80,
 		},
