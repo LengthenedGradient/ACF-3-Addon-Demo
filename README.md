@@ -5,6 +5,7 @@ This repository contains an example addon to ACF and will be referenced in some 
 We recommend that you install the addon if you'd like to follow along, or even experiment once you're done the tutorials.
 
 **We do not endorse gambling or any harmful activities.**
+
 ~~99% of gamblers quit before making it big~~
 
 What content does this addon add to ACF:
