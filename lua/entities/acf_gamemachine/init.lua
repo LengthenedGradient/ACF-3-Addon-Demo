@@ -15,7 +15,7 @@ local function VerifyData(Data) end
 
 local function UpdateGameMachine(Entity, Data, Class, Weapon, Ammo) end
 
-function MakeACF_Ammo(Player, Pos, Ang, Data) end
+function UpdateGameMachine(Player, Pos, Ang, Data) end
 
 function ENT:Update(Data) end
 
