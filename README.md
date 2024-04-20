@@ -10,7 +10,7 @@ We recommend that you install the addon if you'd like to follow along, or even e
 
 What content does this addon add to ACF:
 * A ticket box that holds "currency"
-* A tikcet refill that can resupply ticket boxes
+* A ticket refill that can resupply ticket boxes
 * A few arcade/gambling machines that work with currency
   * A betting machine
   * A slot machine
